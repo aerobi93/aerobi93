@@ -1,4 +1,5 @@
-# aerobi93
+![Cover](https://pixabay.com/get/gab6f48577c7779c12bd8e3bea502f93c080e6f12b4626fa0735f67a1ec6b5a37431ff691d204aa6ee03999394a8de97bbe6aa4aaca62457a7bb626a519a90d85ed98e6f37f493c33c1ec5c708664701b_1920.jpg)
+
 I'm romuald, I've a developer web & web mobile professional title and I'm actually in formation for to become application designer developer.
 
 I had already work on collaborative project using an agile method.
