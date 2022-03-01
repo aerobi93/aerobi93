@@ -1,3 +1,5 @@
+
+
 I'm romuald, I've a developer web & web mobile professional title and I'm actually in formation for to become application designer developer.
 
 I had already work on collaborative project using an agile method.
